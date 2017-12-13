@@ -12,7 +12,7 @@ var header = `<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 <head>
  <meta charset="UTF-8">
     <style type="text/css">
-        body {margin-left: 150px; margin-top: 75px; font-family: monospace; }
+        body {margin-left: 150px; margin-top: 75px; font-family: monospace; padding-bottom: 75px; }
         .handle { display: inline-block; width: 150px; }
         #people {margin-top: 25px;}
         a { color: black; }
