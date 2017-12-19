@@ -177,3 +177,5 @@
 @leokewitz        dat://a9ccdd3cfa8de68aa3b3b6d3b6e5ba4053f47959b3f4cffe77fbfe654bba37e6/
 @jermolene        dat://8ddfce00b630dfdae6b9b6bd74438fe0ed98c2500364af44ec20010ad99bd6a9/
 @nickwarner       dat://5e01035dd06f4862a8212f0ba404f3d9e413ff8153ff4ca5c71841c2f1db436f/
+@michelelelilin   dat://f85c1092d223448549ad0f2f44ac91038ff805c9e585442fe4fd21d18c415832/
+@cookingoils      dat://81b559d9db10127cb57b198390676e815188c6d1dc982a2b1ff5adcff1592c3a/
