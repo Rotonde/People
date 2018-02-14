@@ -181,3 +181,4 @@
 @cookingoils      dat://81b559d9db10127cb57b198390676e815188c6d1dc982a2b1ff5adcff1592c3a/
 @aeliasnet        dat://f25b919db6b4edab4361a6e6f8822f3efc906a42134e4fa1c1d74d051c5c966e/
 @verticallity1    dat://a77eb9e39139799bfeed5b45d58aaaf02ae0cb5f9685b529cad1097adec46aaf/
+@Powersource      dat://351a4489d0d840acebf459d54756ed9d9231e1c19e27ce8c3d72076b106774f6/
