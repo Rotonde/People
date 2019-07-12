@@ -185,3 +185,4 @@
 @verticallity1    dat://a77eb9e39139799bfeed5b45d58aaaf02ae0cb5f9685b529cad1097adec46aaf/
 @The_lolness      dat://351a4489d0d840acebf459d54756ed9d9231e1c19e27ce8c3d72076b106774f6/
 @jda0             dat://de08d08b391355eec3fbda577295c7650658bad2f948dfec8c0bbf1a4e83d3c3/
+@sero.cc          dat://8389ff14957ec4d14f793dbd052bd55ccbe17216f670901cb459e1147ed08a44/
